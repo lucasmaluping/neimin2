@@ -10,4 +10,9 @@ public class ApiApplication {
         SpringApplication.run(ApiApplication.class, args);
     }
 
+    public void  test(){
+        System.out.println(".................");
+    }
 }
+
+
